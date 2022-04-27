@@ -8,3 +8,4 @@ console.log("SOME JAVASCRIPT CODE IN THE INDEX FILE")
 
 var x = 5
 console.log("X:", x)
+console.log("RUNNING RUNNING RUNNING")
